@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mob8</string>
+    <string name="button_students">Список студентов</string>
+    <string name="teachers_button">Список преподавателей</string>
+</resources>
